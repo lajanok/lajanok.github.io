@@ -1,0 +1,38 @@
+header {
+	float: left;
+	width: 25%;
+}
+
+nav {
+	float: right;
+	margin: 3em 5em 0 0;
+	width: 70%;
+}
+main {
+    clear: left;
+}
+
+body {
+	background-color: teal;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 14px 16px;
+}
+
+li {
+  float: left;
+}
+
+li {
+	display: block; 
+	text-align: center;
+	padding: 14px 16px;
+}
+
+li a {
+  display: inline;
+  width: 60px;
+}
